@@ -31,7 +31,6 @@ Um aplicativo moderno e intuitivo desenvolvido com **Flutter**, que permite visu
 |:----------------:|:-----:|
 | ![Detalhes](https://github.com/user-attachments/assets/time-detalhes-placeholder.png) | ![Login](https://github.com/user-attachments/assets/login-placeholder.png) |
 
-> **Observação:** Imagens meramente ilustrativas. Substitua pelos screenshots do seu app real.
 
 ---
 
