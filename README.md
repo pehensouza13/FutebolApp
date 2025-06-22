@@ -7,11 +7,8 @@ Um aplicativo moderno e intuitivo desenvolvido com **Flutter**, que permite visu
 ## ✨ Funcionalidades
 
 - 🔐 **Autenticação** de usuários com Firebase (login e cadastro)
-- 🏆 **Listagem de campeonatos de futebol** com dados da API-Football
 - 🧩 **Visualização de times por liga**
 - 🖼️ **Exibição de detalhes do time** (nome, escudo, etc.)
-- 📌 **Estrutura pronta para favoritar times** com Firestore
-- 🚀 Integração com API-Football (v3)
 
 ---
 
@@ -21,9 +18,6 @@ Um aplicativo moderno e intuitivo desenvolvido com **Flutter**, que permite visu
 - 💻 **Dart** — Linguagem oficial do Flutter
 - ☁️ **Firebase Authentication** — Gerenciamento de usuários
 - 🔥 **Cloud Firestore** — Base para funcionalidades de favoritos
-- 🌍 **API-Football** — Dados de futebol em tempo real
-- 📦 **Provider** — Gerenciamento de estado
-- 🌐 **HTTP** — Requisições de API
 
 ---
 
