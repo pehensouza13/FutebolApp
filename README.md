@@ -1,6 +1,5 @@
 # ⚽ FutebolApp - Flutter App
-
-Bem-vindo ao **FutebolApp**!  
+ 
 Um aplicativo moderno e intuitivo desenvolvido com **Flutter**, que permite visualizar **campeonatos**, **times** e **detalhes dos clubes de futebol**, com suporte a **login de usuário via Firebase Authentication**.
 
 ---
