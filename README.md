@@ -41,20 +41,3 @@ O gerenciamento de usuários é feito diretamente pelo **Firebase Authentication
 ![Firebase](https://github.com/user-attachments/assets/firebase-auth-placeholder.png)
 
 ---
-
-## 🌍 Integração com API-Football
-
-Consome dados diretamente da [API-Football](https://www.api-football.com/) utilizando endpoints como:
-
-- `/leagues` — Lista de ligas e campeonatos
-- `/teams` — Times participantes por temporada
-
----
-
-## 🧰 Como rodar o projeto
-
-### 1. Clone o repositório
-
-```bash
-git clone https://github.com/seu-usuario/futebol_app.git
-cd futebol_app
